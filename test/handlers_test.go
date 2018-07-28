@@ -2,11 +2,11 @@ package test
 
 import (
 	"github.com/gin-gonic/gin"
+	utils "github.com/golden-protocol/gin_unit_test"
 	"io/ioutil"
 	"log"
 	"os"
 	"testing"
-	utils "github.com/Valiben/gin_unit_test"
 )
 
 func init() {

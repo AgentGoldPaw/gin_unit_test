@@ -16,9 +16,9 @@ const (
 	POST   = "POST"
 	PUT    = "PUT"
 	DELETE = "DELETE"
-
-	JSON = "json"
-	FORM = "form"
+	PATCH  = "PATCH"
+	JSON   = "json"
+	FORM   = "form"
 )
 
 var (
